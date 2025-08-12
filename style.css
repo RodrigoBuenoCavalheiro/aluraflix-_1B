@@ -2,3 +2,8 @@ body{
     background-color: darkorange;
     color: darkblue;
 }
+section{
+    background-color: aqua;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
